@@ -7,5 +7,6 @@ int main()
 {
 	// Type something...
 	cout << "Something" << endl;
+	// Haha you're not funny...
 	return 0;
 }
