@@ -1,4 +1,4 @@
-// This is not and SDL project...
+// This is not an SDL project...
 
 #include <iostream>
 using namespace std;
@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
 	// Type something...
-
+	cout << "Something" << endl;
 	return 0;
 }
